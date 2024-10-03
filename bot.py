@@ -9,8 +9,8 @@ from discord.ext import commands
 import ocr
 import songs
 
-TOKEN = "MTIwMzU0OTkwMjM0MTQxNDk3Mg.Gj2Cma.qmXVnD19JAG08V8Qvp0RQSJSPUo6X_QsCJxHYA"
-CHANNEL_ID = 837142185887268956
+TOKEN = "token"
+CHANNEL_ID = 123
 
 
 def save_users(data, filename='users.json'):
